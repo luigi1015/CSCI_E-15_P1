@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="UTF-8">
 		<link rel="stylesheet" href="p1.css">
 		<title>CSCI E-15 Project 1 - Jeff Crone</title>
 	</head>
@@ -9,6 +11,7 @@
 			<h2>Jeff Crone</h2>
 			<img src="images/reading.jpg" alt="Jeff Crone" width="460" height="540">
 		</center>
+		<br>
 		<table>
 			<tr>
 				<td>
@@ -19,14 +22,12 @@
 				</td>
 				<td>
 					<h3>Project 3</h3>
-					<br>
 					Live version: [link]
 					<br>
 					Github version: [link]
 				</td>
 				<td>
 					<h3>Project 4</h3>
-					<br>
 					Live version: [link]
 					<br>
 					Github version: [link]
