@@ -1,0 +1,13 @@
+table
+{
+	width: 100%;
+	padding: 1em;
+	border-spacing: 1em;
+}
+
+td
+{
+	text-align: center;
+	border: 1px solid black;
+	box-shadow: 0.7em 0.7em 0.35em #888888;
+}
